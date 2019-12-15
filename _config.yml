@@ -102,7 +102,7 @@ disqus:
 #         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: lixiaofan
+    owner: lixiaofan007
     repo: blog-comments
     clientID: 41d52ba031bb669d9958
     clientSecret: d22e1611114c95e43741e422e46bb0916171548f
